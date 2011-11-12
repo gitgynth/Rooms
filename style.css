@@ -1,0 +1,56 @@
+﻿body{
+	font-family:Verdana,sans-serif;
+	
+
+}
+#Woche{
+	width:50%;
+	float:left;
+
+}
+#Anzeige{
+	width:50%;	
+	float:left;
+}
+
+#plans{
+	
+}
+
+
+#space{
+
+min-height:40px;
+clear:both;
+
+}
+#footer{
+	text-align:center;
+	background-color:#17A017;
+	clear:both;
+}
+.myTab{
+	border:1px solid;
+	background-color:#00ff00;
+	text-align:center;
+	padding:2px;
+	width:auto;
+
+}
+
+.tabHead{
+	background-color:#AFEE18;
+}
+.tabEmpty{
+	background-color:#FFFF00;
+}
+.logo{
+	float:right;	
+	width:120px;
+	
+
+}
+.red{
+	color:red;
+	font-weight:bold;
+}
