@@ -1,7 +1,7 @@
 <?php
 $host="localhost";
-$user="root";
-$pwd="montanausa52";
+$user="";
+$pwd="";
 $DB="develop";
 $table="Rooms";
 $v11="planV11";
